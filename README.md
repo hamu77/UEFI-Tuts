@@ -1,3 +1,8 @@
+***** READ THIS FIRST! This is actually a fork of a project authored by ThatOSDev. I don't own or have written any part of the code. I just realized that the original author has delete their repo hence the fork doesn't show the parent repo. I am keeping this in public domain, unless the original author contacts me and asks me to take it down, as someone might use it for learning purposes. Again all credit goes to the original author ThatOSDev. Thanks!
+Original repo: https://github.com/ThatOSDev/UEFI-Tuts (deleted by the original author ThatOSDev)
+Archived video: https://www.youtube.com/channel/UCsrw5TMukyxeYsA88WjpavA
+
+
 # Step by Step Tutorials on how to use the UEFI for OS Development from scratch
 
 THIS IS WINDOWS BASED TUTS, BUT CODE SHOULD WORK IN LINUX AND MAC.  
